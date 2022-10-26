@@ -1,0 +1,138 @@
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\appsettings.Development.json
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\appsettings.json
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.exe
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.deps.json
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.json
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.dev.json
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.Views.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\laba3.Views.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 курс\den\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.csproj.AssemblyReference.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfoInputs.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfo.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.csproj.CoreCompileInputs.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.MvcApplicationPartsAssemblyInfo.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.RazorAssemblyInfo.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.RazorAssemblyInfo.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\scopedcss\bundle\laba3.styles.css
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\staticwebassets\laba3.StaticWebAssets.Manifest.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.TagHelpers.input.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.TagHelpers.output.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.RazorCoreGenerate.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.RazorTargetAssemblyInfo.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.RazorTargetAssemblyInfo.cs
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.Views.pdb
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.csproj.CopyComplete
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.dll
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\refint\laba3.dll
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.pdb
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\laba3.genruntimeconfig.cache
+D:\3 курс\den\laba3\laba3\obj\Debug\net5.0\ref\laba3.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\appsettings.json
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.exe
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.deps.json
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.json
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.runtimeconfig.dev.json
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.Views.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\laba3.Views.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.csproj.AssemblyReference.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfoInputs.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.AssemblyInfo.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.csproj.CoreCompileInputs.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.RazorAssemblyInfo.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.RazorAssemblyInfo.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\scopedcss\bundle\laba3.styles.css
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\staticwebassets\laba3.StaticWebAssets.Manifest.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.TagHelpers.input.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.TagHelpers.output.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.RazorCoreGenerate.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.RazorTargetAssemblyInfo.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.RazorTargetAssemblyInfo.cs
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.Views.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.csproj.CopyComplete
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\refint\laba3.dll
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.pdb
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\laba3.genruntimeconfig.cache
+C:\Users\No name\OneDrive\Рабочий стол\laba3\laba3\obj\Debug\net5.0\ref\laba3.dll
